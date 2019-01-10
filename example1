@@ -31,3 +31,6 @@
         </apex:pageBlockSection>
     </apex:pageBlock>
 </apex:page>
+
+// global variables ref: 
+// https://developer.salesforce.com/docs/atlas.en-us.216.0.pages.meta/pages/pages_variables_global.htm
