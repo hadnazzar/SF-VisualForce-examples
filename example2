@@ -14,3 +14,12 @@
     </apex:pageBlock>
     
 </apex:page>
+
+
+// Standart Controllers:
+// https://developer.salesforce.com/docs/atlas.en-us.216.0.pages.meta/pages/pages_controller_std.htm
+
+// Standart List Controllers:
+// https://developer.salesforce.com/docs/atlas.en-us.216.0.pages.meta/pages/pages_controller_sosc_about.htm
+
+// 
